@@ -1,0 +1,125 @@
+A
+800
+LIBRARY
+
+# Objects and library created by N1K
+# Updated on 25th November 2021.
+# Version 1
+
+#4m Objects
+EXPORT BayMarkerSigns/4m/BayMarker1.obj 4m/BayMarker1.obj
+EXPORT BayMarkerSigns/4m/BayMarker2.obj 4m/BayMarker2.obj
+EXPORT BayMarkerSigns/4m/BayMarker3.obj 4m/BayMarker3.obj
+EXPORT BayMarkerSigns/4m/BayMarker4.obj 4m/BayMarker4.obj
+EXPORT BayMarkerSigns/4m/BayMarker5.obj 4m/BayMarker5.obj
+EXPORT BayMarkerSigns/4m/BayMarker6.obj 4m/BayMarker6.obj
+EXPORT BayMarkerSigns/4m/BayMarker7.obj 4m/BayMarker7.obj
+EXPORT BayMarkerSigns/4m/BayMarker8.obj 4m/BayMarker8.obj
+EXPORT BayMarkerSigns/4m/BayMarker9.obj 4m/BayMarker9.obj
+EXPORT BayMarkerSigns/4m/BayMarker10.obj 4m/BayMarker10.obj
+EXPORT BayMarkerSigns/4m/BayMarker11.obj 4m/BayMarker11.obj
+EXPORT BayMarkerSigns/4m/BayMarker12.obj 4m/BayMarker12.obj
+EXPORT BayMarkerSigns/4m/BayMarker13.obj 4m/BayMarker13.obj
+EXPORT BayMarkerSigns/4m/BayMarker14.obj 4m/BayMarker14.obj
+EXPORT BayMarkerSigns/4m/BayMarker15.obj 4m/BayMarker15.obj
+EXPORT BayMarkerSigns/4m/BayMarker16.obj 4m/BayMarker16.obj
+EXPORT BayMarkerSigns/4m/BayMarker17.obj 4m/BayMarker17.obj
+EXPORT BayMarkerSigns/4m/BayMarker18.obj 4m/BayMarker18.obj
+EXPORT BayMarkerSigns/4m/BayMarker19.obj 4m/BayMarker19.obj
+EXPORT BayMarkerSigns/4m/BayMarker20.obj 4m/BayMarker20.obj
+EXPORT BayMarkerSigns/4m/BayMarker21.obj 4m/BayMarker21.obj
+EXPORT BayMarkerSigns/4m/BayMarker22.obj 4m/BayMarker22.obj
+EXPORT BayMarkerSigns/4m/BayMarker23.obj 4m/BayMarker23.obj
+EXPORT BayMarkerSigns/4m/BayMarker24.obj 4m/BayMarker24.obj
+EXPORT BayMarkerSigns/4m/BayMarker25.obj 4m/BayMarker25.obj
+EXPORT BayMarkerSigns/4m/BayMarker26.obj 4m/BayMarker26.obj
+EXPORT BayMarkerSigns/4m/BayMarker27.obj 4m/BayMarker27.obj
+EXPORT BayMarkerSigns/4m/BayMarker28.obj 4m/BayMarker28.obj
+EXPORT BayMarkerSigns/4m/BayMarker29.obj 4m/BayMarker29.obj
+EXPORT BayMarkerSigns/4m/BayMarker30.obj 4m/BayMarker30.obj
+EXPORT BayMarkerSigns/4m/BayMarker31.obj 4m/BayMarker31.obj
+EXPORT BayMarkerSigns/4m/BayMarker32.obj 4m/BayMarker32.obj
+EXPORT BayMarkerSigns/4m/BayMarker33.obj 4m/BayMarker33.obj
+EXPORT BayMarkerSigns/4m/BayMarker34.obj 4m/BayMarker34.obj
+EXPORT BayMarkerSigns/4m/BayMarker35.obj 4m/BayMarker35.obj
+EXPORT BayMarkerSigns/4m/BayMarker36.obj 4m/BayMarker36.obj
+EXPORT BayMarkerSigns/4m/BayMarker37.obj 4m/BayMarker37.obj
+EXPORT BayMarkerSigns/4m/BayMarker38.obj 4m/BayMarker38.obj
+EXPORT BayMarkerSigns/4m/BayMarker39.obj 4m/BayMarker39.obj
+EXPORT BayMarkerSigns/4m/BayMarker40.obj 4m/BayMarker40.obj
+EXPORT BayMarkerSigns/4m/BayMarker41.obj 4m/BayMarker41.obj
+EXPORT BayMarkerSigns/4m/BayMarker42.obj 4m/BayMarker42.obj
+EXPORT BayMarkerSigns/4m/BayMarker43.obj 4m/BayMarker43.obj
+EXPORT BayMarkerSigns/4m/BayMarker44.obj 4m/BayMarker44.obj
+EXPORT BayMarkerSigns/4m/BayMarker45.obj 4m/BayMarker45.obj
+EXPORT BayMarkerSigns/4m/BayMarker46.obj 4m/BayMarker46.obj
+EXPORT BayMarkerSigns/4m/BayMarker47.obj 4m/BayMarker47.obj
+EXPORT BayMarkerSigns/4m/BayMarker48.obj 4m/BayMarker48.obj
+EXPORT BayMarkerSigns/4m/BayMarker49.obj 4m/BayMarker49.obj
+EXPORT BayMarkerSigns/4m/BayMarker50.obj 4m/BayMarker50.obj
+EXPORT BayMarkerSigns/4m/BayMarker51.obj 4m/BayMarker51.obj
+EXPORT BayMarkerSigns/4m/BayMarker52.obj 4m/BayMarker52.obj
+EXPORT BayMarkerSigns/4m/BayMarker53.obj 4m/BayMarker53.obj
+EXPORT BayMarkerSigns/4m/BayMarker54.obj 4m/BayMarker54.obj
+EXPORT BayMarkerSigns/4m/BayMarker55.obj 4m/BayMarker55.obj
+EXPORT BayMarkerSigns/4m/BayMarker56.obj 4m/BayMarker56.obj
+EXPORT BayMarkerSigns/4m/BayMarker57.obj 4m/BayMarker57.obj
+EXPORT BayMarkerSigns/4m/BayMarker58.obj 4m/BayMarker58.obj
+EXPORT BayMarkerSigns/4m/BayMarker59.obj 4m/BayMarker59.obj
+EXPORT BayMarkerSigns/4m/BayMarker60.obj 4m/BayMarker60.obj
+
+#10m Objects
+EXPORT BayMarkerSigns/10m/BayMarker01_10m.obj 10m/BayMarker01_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker02_10m.obj 10m/BayMarker02_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker03_10m.obj 10m/BayMarker03_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker04_10m.obj 10m/BayMarker04_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker05_10m.obj 10m/BayMarker05_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker06_10m.obj 10m/BayMarker06_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker07_10m.obj 10m/BayMarker07_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker08_10m.obj 10m/BayMarker08_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker09_10m.obj 10m/BayMarker09_10m.obj
+
+EXPORT BayMarkerSigns/10m/BayMarker19_10m.obj 10m/BayMarker19_10m.obj
+
+EXPORT BayMarkerSigns/10m/BayMarker20_10m.obj 10m/BayMarker20_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker21_10m.obj 10m/BayMarker21_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker22_10m.obj 10m/BayMarker22_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker23_10m.obj 10m/BayMarker23_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker24_10m.obj 10m/BayMarker24_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker25_10m.obj 10m/BayMarker25_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker26_10m.obj 10m/BayMarker26_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker27_10m.obj 10m/BayMarker27_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker28_10m.obj 10m/BayMarker28_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker29_10m.obj 10m/BayMarker29_10m.obj
+
+EXPORT BayMarkerSigns/10m/BayMarker41_10m.obj 10m/BayMarker41_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker42_10m.obj 10m/BayMarker42_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker43_10m.obj 10m/BayMarker43_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker44_10m.obj 10m/BayMarker44_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker45_10m.obj 10m/BayMarker45_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker46_10m.obj 10m/BayMarker46_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker47_10m.obj 10m/BayMarker47_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker48_10m.obj 10m/BayMarker48_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker49_10m.obj 10m/BayMarker49_10m.obj
+
+EXPORT BayMarkerSigns/10m/BayMarker50_10m.obj 10m/BayMarker50_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker51_10m.obj 10m/BayMarker51_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker52_10m.obj 10m/BayMarker52_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker54_10m.obj 10m/BayMarker54_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker56_10m.obj 10m/BayMarker56_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker57_10m.obj 10m/BayMarker57_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker58_10m.obj 10m/BayMarker58_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker59_10m.obj 10m/BayMarker59_10m.obj
+
+EXPORT BayMarkerSigns/10m/BayMarker60_10m.obj 10m/BayMarker60_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker61_10m.obj 10m/BayMarker61_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker62_10m.obj 10m/BayMarker62_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker63_10m.obj 10m/BayMarker63_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker64_10m.obj 10m/BayMarker64_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker65_10m.obj 10m/BayMarker65_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker66_10m.obj 10m/BayMarker66_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker67_10m.obj 10m/BayMarker67_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker68_10m.obj 10m/BayMarker68_10m.obj
+EXPORT BayMarkerSigns/10m/BayMarker69_10m.obj 10m/BayMarker69_10m.obj
+
+
