@@ -1,0 +1,8 @@
+BayMarkerSigns Library for X-Plane 11
+Library for bay designation boards typically found in Australian Airports.
+
+Installation:
+Copy BayMarkerSigns folder in the x-plane 11 custom scenery folder.
+Assets will now be useable within WED or for use in preconfigured airport scenery
+
+n.b. not all desgnations are included, original source files located on github for personal expansion
